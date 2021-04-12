@@ -7,7 +7,9 @@
 /*----------------------------------------*/
 
 .card-body p {
-    letter-spacing: 1.5px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
 }
 
 html {
